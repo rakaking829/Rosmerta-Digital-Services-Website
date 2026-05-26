@@ -1,0 +1,487 @@
+@media (max-width: 1600px) {
+.performance-right{margin-top: 6rem; margin-bottom: 6rem;}
+.journey-sec{background: url(../images/journeysec-bg.webp) no-repeat center;}
+.vehicletext-box p{width: 89%;}
+.statetext p{padding-left: 11rem;}
+.keyscale {  height: 45%; }
+.advantages-bg{ padding: 10rem 0;}
+.operationalex-bg, .lastmile-value-bg{padding: 10rem 0;}
+.contact-cont{margin-left: 369px;}
+
+}/*1600*/
+
+@media (max-width: 1410px) {
+.desktop-menu ul li a{padding: 1rem 1rem;}
+.homeslider .slider__item img{max-width: 100%;}    
+.inner-header{padding: 10rem 0;}
+.value-box { max-width: 19%;  padding: 0 15px; }
+.value-system::after{font-size: 34rem;line-height: 61rem;}
+.theopport-bg{padding: 54rem 0;}
+.contact-cont {margin-left: 254px;}
+.client-cont{margin-left: 46%;}
+ }/*1410*/
+
+@media (max-width: 1366px) {
+.desktop-menu ul li a { padding: 1rem .6rem; font-size: 1.4rem;  line-height: 2.4rem; }
+.safeleft{left: 42px;}
+.four-pillers-cont{max-width: 96%;}
+.digital-strengths{padding: 45rem 0 10rem;}
+.vehicle-cont{padding-left: 2rem; margin-bottom: 2rem;}
+.vehicletext-box { margin-left: 3rem;  width: 85%; }
+.state-cont{padding-left: 0; padding-right: 2rem; margin-bottom: 2rem;}
+.statetext { margin-right: 3rem; }
+.example-brand{padding: 43rem 0 11rem;}
+.atrosmeta-text{margin-bottom: 3rem;}
+.brandsul{margin-top: 4rem;}
+.enhancing-sec{padding: 0 0 10rem;}
+.state-presece-cont{margin-top: 5rem;}
+.client-cont { margin-left: 44%;  }
+.contact-cont { margin-left: 209px;  }
+.totalactiveimg img{margin-top: -76rem;}
+}/*1366*/
+@media (max-width: 1199px) {
+.desktop-menu ul li a {padding: 1rem .6rem; font-size: 1.1rem;  line-height: 2.2rem; }
+.dititalec-left { width: 34%; }
+.inner-header { padding: 8rem 0; }
+.vision-right{margin-left: -160px;}
+.safeleft { left: 93px;  width: 186px;}
+.value-system::after { font-size: 26rem;  line-height: 59rem;  }
+.journey-sec{padding: 6rem 0 14rem;}
+.journey-box02-2023 h3 { margin-top: 13rem; }
+.decsales-box {  margin-top: 63rem; }
+.vehicle-right{padding-top: 3rem;}
+.state-box{padding-top: 3rem;}
+.vehicletext-box h3, .statetext h3{font-size: 2.4rem;  line-height: 3.4rem;}
+.vehicle-cont h2, .statenum h2{font-size: 4rem; line-height: 5rem;}
+.brandsul li img{width: 100%; max-width: 150px;}
+.innerrevolser-box {padding: 3rem 2rem;}
+.theopport-bg{margin-top: -370px;}
+.techno-enable-cont02 { margin-left: 9rem; }
+.stratelogo-cont li img{width: 100%;}
+.mega-cont{max-width: 1000px; padding: 5rem 7rem;}
+.client-cont { max-width: 750px;  padding: 5rem 10.3rem;  }
+.client-cont {  margin-left: 36%;  }
+.contact-cont { margin-left: 181px;  }
+.related-slider { padding: 0 30px;  }
+.related-slider .slick-arrow.slick-prev{left: -10px;}
+.related-slider .slick-arrow.slick-next{right: -10px;}
+.totalactiveimg img { margin-top: -64rem;}
+}/*1199*/
+@media (max-width: 1024px) {
+.serviceimg-box02 p {font-size: 1.8rem;line-height: 2.8rem;}
+.news-right {padding-left: 0;}
+.perfortext{width: 74%;}
+.investor-left img { max-width: 100%;}
+.investorleft-text{width: 100%;}
+.digitalcol { padding: 0 15px; }
+.footer-col01 { padding-left: 0; }
+.contact-col {padding-left: 0; }
+.inner-header { padding: 7rem 0; }
+.visiontext{padding: 5rem 9rem;}
+.inner-safebox{padding: 10rem 22rem;}
+.value-system::after{display: none;}
+.media .media__img { padding-top: 6rem; }
+.media__body { margin-left: 3rem;  padding: 6rem 0;}
+.jouney-box01 h4{font-size: 1.8rem; line-height: 2.8rem;}
+.jounney-cont .jouney-box:nth-child(2){max-width: 215px;}
+.deb-cont{padding: 1rem;}
+.deb-cont p{margin-left: 1rem;}
+.decs-cont img, .decs-cont01 img {  margin-left: 1rem;  }
+.journey-box02 h3{margin-top: 9rem;}
+.journey-box02-2023 h3{margin-top: 5rem;}
+.decsales-box { margin-top: 51rem;  }
+.fpillers-box h3{font-size: 2rem; line-height: 3rem;}
+.fillersbottom-box{padding: 5rem 3rem;}
+.digital-strengths { padding: 41rem 0 8rem; }
+.statetext p{padding-left: 0;}
+.theopport-bg { margin-top: -429px; }
+.rdsca-cont{padding: 0 2rem;}
+.rdsca-cont {padding: 5rem 2rem;  }
+.enhancing-box{padding: 7rem 9rem;}
+.enhancing-box h5 br{display: none;}
+.excelbottom-text p{max-width: 96%;}
+.techno-enable-cont02 {  margin-left: 0; }
+.state-presece-right h5{margin-bottom: 5rem;}
+.order-visibility-cont{ padding: 5rem 7rem 5rem 7rem;}
+.mm2-box{padding: 3rem 2rem;}
+.customer-box p{width: 59%;}
+.client-cont { margin-left: 24%;  }
+.contact-cont { margin-left: 11px;  }
+.totalactiveimg img { margin-top: -540px;}
+}/*1024*/
+
+@media (max-width: 1000px) {
+.desktop-menu{display: none;}    
+.header{display: block;}
+
+}  /*1000*/  
+
+@media (max-width: 991px) {
+html{font-size: 55%;}
+.media .media__img{padding: 6rem 0;}
+.journey-box02 h3{font-size: 3rem;line-height: 4rem; width: 108px; height: 108px;}
+.journey-box02 h3 {margin-top: 10rem;  }
+.journey-box02-2023 h3 { margin-top: 5rem;  }
+.decsales-box { margin-top: 49rem;  }
+.example-brand {  padding: 47rem 0 9rem;  }
+.theopport-bg { margin-top: -352px;}
+.address-cont{padding: 6rem 6rem;}
+.urjalogo { margin-top: 3rem;}
+.myraasta-left{margin-right: -5rem;}
+}/*991*/
+@media (max-width: 768px) {
+.button{top: 0px;}
+.serroslobo-box img{width: 161px;}
+.serviceimg-box02 .serviceimg-box {width: 161px; height: 161px;}
+.safebox{padding: 3rem 2rem;}
+.performance-right{margin-left: -160px;}
+.investor-sec { padding: 6rem 0 6rem; }
+.inner-header { padding: 6rem 0; }
+.inner-safejourney{padding: 25rem 0 8rem;}
+.safeleft{top: -27%;}
+.inner-safebox { padding: 6rem 3rem;  }
+.value-cont{justify-content: left;}
+.value-box {max-width: 33%; padding: 0 15px;  }
+.visiontext { padding: 5rem 3rem; }
+.media{flex-wrap: wrap;}
+.media::after{right: -15px;}
+.media .media__img {  padding: 6rem 0 0;display: block; margin: 0 auto;  width: 100%;  max-width: 423px; }
+.media__body { margin-left: 0;  padding: 3rem 0; max-width: 100%;  }
+.journey-box02 h3 {  margin-top: 17rem;  }
+.journey-box02-2023 h3 { margin-top: 10rem;  }
+.decsales-box {  margin-top: 65rem; }
+.digital-strengths { padding: 45rem 0 8rem; }
+.theopport-bg {  margin-top: -458px;  padding: 47rem 0;}
+.rdsca-col{padding: 0 15px;}
+.enhancing-box{margin-top: 9rem; padding: 5rem 3rem;}
+.techno-enable-cont{padding: 5rem 4rem 5rem 4rem;}
+.state-presece-cont { padding: 5rem 2rem;}
+.vehicletext-box h3 br{display: none;}
+.customer-box p{width: 70%;}
+.quick-right { padding-left: 5rem;  }
+.serroslobo-box .roslogo-gif{width: 51%; top: 49%;}
+.new-vehicle-cont{padding-left: 0;}
+.new-vehicle-right{padding-top: 0;}
+.ourservice01{padding: 1rem 0 3rem;}
+.famerow { margin-bottom: 2rem;  }
+.atros-text {  margin-top: 2rem;  }
+.myraasta-left { margin-right: -2rem; }
+.myraasta-left img{max-width: 160px;}
+.myraasta-right { padding-left: 2rem;  }
+.myraasta-right p { margin: 1rem 0; }
+.investor-ul li{padding: 0 8px;}
+.investor-ul li a{font-size: 2.2rem; line-height: 3.2rem;}
+.investor-ul li a img{max-width: 40px; margin-left: 1rem;}
+.fwlogo-box .autologo-box {  max-width: 33%;  margin: -1px 0px 0px -1px;   border: 1px dashed #d1d1d1;  }
+.contact-left{padding: 4rem 2rem;}
+.cttext02 {  width: 72%;   margin-left: 3rem;  }
+.ct-modal-body-cont { padding: 0 3rem 5rem; }
+}/*768*/
+@media (max-width: 650px) {
+html{font-size: 50%;}
+#cssmenu > ul > li > a{font-size: 1.6rem;}
+#cssmenu ul ul li a{font-size: 1.5rem;}
+/* .topbar{display: none;} */
+.top-info ul li{display: none;}
+.top-info ul li:last-child{display: block;}
+.mainlogo{text-align: center;}
+#cssmenu #head-mobile{padding: 17px;}
+.abouttext h1{ margin: 2rem 0 1rem;}
+.service-cont{flex-wrap: wrap;}
+.service-box{width: 100%;}
+.service-hover02 { margin-top: 1rem; }
+.service-cont .service-box:first-child{margin-top: 2rem;}
+/* .positon-sbox::before, .positon-sbox::after, .serroslobo-box::after, .positon-sbox02::before, .positon-sbox02:after{width: 0;} */
+.positon-sbox02::after, .positon-sbox02::before{right: 0;}
+.positon-sbox::before, .positon-sbox::after{left: 0;}
+.serroslobo-box{margin-top: 0; margin-bottom: 2rem;}
+.serviceimg-box, .serviceimg-box02 .serviceimg-box {width: 110px; height: 110px;}
+.serroslobo-box img { width: 110px;  }
+.serviceimg-box img{max-width: 65px;}
+.news-left img{margin-top: 0;}
+.news-right{margin-top: 2rem;}
+.news-box {  margin-top: 3rem;  }
+.key-cont{flex-wrap: wrap;}
+.keybox{width: 50%;}
+.keystrength-sec { padding: 6rem 0 4rem; }
+.performance-right { margin-left: 0;  }
+.wrapper { padding: 15px 10px;  }
+.investor-sec { padding: 4rem 0 6rem; }
+.investor-cont{padding: 6rem 2rem 5rem 2rem; flex-wrap: wrap;}
+.investor-left, .investor-right { width: 100%; }
+.investorleft-text p { font-size: 2rem; line-height: 3rem; text-align: left;}
+.investor-left{text-align: center; margin-bottom: 3rem;}
+.investorleft-text { left: 50%;transform: translate(-50%, -50%); bottom: -46px;  max-width: 456px; }
+.footerlogo{margin-bottom: 0;}
+.value-system01{padding: 0 0 6rem;}
+/* footer menu */
+.panel-menu{display: block;}
+.footer-col .accordion01{color: #dfb100; cursor: pointer; padding: 0;  width: 100%; border: none; text-align: left; outline: none;  font-size: 1.6rem; line-height: 2.8rem; transition: 0.4s; font-weight: 600; margin-bottom: 0;  }
+.footer-col .accordion01:after { content: '\f078'; color: #dfb100;  font-weight: bold;  float: left;  margin-right: 7px; font-family: "Font Awesome 5 Free"; }
+.footer-col .active01:after{  content: "\f077"; font-family: "Font Awesome 5 Free"; }
+.panel01{ padding: 0 18px; max-height: 0; overflow: hidden; transition: max-height 0.2s ease-out;}
+.footer-col .panel01 li a, .footer-col p{font-size: 1.4rem; line-height: 3rem; color: #fff; font-weight: 400; display: block; margin-bottom: 0;}
+.accordion01{display: block;}
+/* end footer menu */
+.footer-col .lastmile, .footer-col01 .newsmt {margin-top: 1rem; }
+.footer-col{margin-bottom: 1rem;}
+.footer-socialicon{margin-top: 1rem;}
+.bottom-footer{margin-top: 3rem;}
+footer{padding: 3rem 0 0;}
+.inner-header{display: none;}
+.mobile-header{display: block; width: 100%; margin-top: 161px;}
+.visiontext { padding: 3rem 2rem; }
+.vision-right h4{top: 42%;}
+.bods-breadcrumb{display: none;}
+.media{margin-top: 3rem;}
+.jounney-cont .jouney-box:nth-child(2){display: none;}
+.jounney-cont{flex-wrap: wrap;}
+.jouney-box{width: 100%;}
+.decsales-box { margin-top: 0; }
+.jouney-box01 h4{text-align: left;font-size: 2rem; line-height: 3rem; color: #000;}
+.decs-cont, .decs-cont01{display: flex; flex-direction: row-reverse; }
+.decs-cont p, .decs-cont01 p { text-align: left; width: 100%; }
+.decs-cont img, .decs-cont01 img { margin-left: 0;  }
+.deb-cont { padding: 2rem;  }
+.deb-cont p { margin-left: 2rem; }
+.myear {display: block;}
+.myear h3 {font-size: 2rem; line-height: 3rem; color: #fff; font-weight: 700; display: flex;justify-content: center; background: #244191; width: 80px; height: 80px; align-items: center;border-radius: 50%; border: 2px solid #fff; position: relative;   z-index: 9; margin-bottom: 2rem;  }
+.journey-sec {background: url(../images/journeysec-bg.webp) no-repeat; background-size: cover;}
+.digital-enbled-box{margin-bottom: 3rem;}
+.journey-sec { padding: 6rem 0 7rem; }
+.fpillers-box01 {  border-top-left-radius: 0; }
+.fpillers-box{height: auto;}
+.fillersbottom-box{height: auto; background: no-repeat;  padding: 5rem 2rem 2rem; box-shadow: 0 4px 8px 0 rgba(223, 223, 223, 0.2), 0 6px 20px 0 rgba(79, 79, 79, 0.19); }
+.fillersbottom-box::after{top: -23px;  left: 24px;}
+.fillersbottom-box p{line-height: 2.4rem;}
+.digital-strengths {  padding: 6rem 0 6rem;margin-top: 0;  }
+.fpillers-box04 { border-top-right-radius: 0; }
+.vehicleown-left h5{margin: 1rem 0 2rem;}
+.vehicle-cont{padding-left: 0;}
+.column-reverse{display: flex;flex-direction: column-reverse;}
+.example-brand{margin-top: 0; padding: 6rem 0 6rem;}
+.brandsul{padding: 3rem 2rem;}
+.revolser-box{height: auto;box-shadow: 0 4px 8px 0 rgba(223, 223, 223, 0.2), 0 6px 20px 0 rgba(79, 79, 79, 0.19); margin-bottom: 3rem;}
+.group-heading .mob-cblue{color: #244191;}
+.theopport-bg {display: none;}
+.theopportunity-sec { margin-top: 1rem;}
+.digitallykey-sec { padding-top: 0;}
+.enanble-heading { margin-top: 1rem;  }
+.enanble-heading img{margin: 2rem 0;}
+.enanble-heading .cblack{font-size: 2.5rem; line-height: 3.5rem;}
+.rdsca-cont { padding: 2rem 2rem;  flex-wrap: wrap;  }
+.rdsca-col { padding: 0; width: 100%; border-right: 0; border-bottom: 1px solid#bfbfbf; padding-bottom: 1rem;  margin-bottom: 2rem; }
+.rdsca-col:last-child{border-bottom: 0;}
+.rdsca-bottom{margin-top: 0px;}
+.rdsca-col h3 br{display: none;}
+.rdsca-col h3{margin: 1rem 0;}
+.scaleup-ul li::after{top: 9px;}
+.enhancing-box { margin-top: 9rem;}
+.vehicletext-box h3 br{display: none;}
+.excelimg-bottom, .statebottom-text{margin-top: 0;}
+.excelbottom-text{padding: 0 0 3rem;}
+.excelbottom-text p {  max-width: 100%; font-size: 1.6rem;  line-height: 3rem; margin: 0 auto 1rem;  }
+.state-presece-cont { padding: 0 0 3rem; margin-top: 0;  }
+.state-presece-right h5 { margin-bottom: 2rem;  }
+.techno-enable-box1 {  margin-top: 0;  }
+.techno-enable-box1 img {max-width: 109px; }
+.keydifferent-sec{padding: 8rem 0 5rem;}
+.techno-enable-cont{margin-bottom: 3rem;}
+.orderbot-text p{max-width: 100%;}
+.customer-box p { width: 85%;  }
+.customer-cont{padding: 4rem 0;}
+.customer-col{margin-bottom: 4rem;}
+.compreh-box {padding: 1rem 1rem 3rem;}
+.Strategic-cont { padding: 5rem 0 0; }
+.stratelogo-cont{flex-wrap: wrap;}
+.stratelogo-cont li{width: 33.3%;}
+.address-cont{flex-wrap: wrap;}
+.address-box01, .address-box02{width: 100%;}
+.address-cont { padding: 3rem;}
+.address-box01{border-right: 0; border-bottom: 1px solid #dfdfdf; margin-top: 0;}
+.address-box01 p{margin-bottom: 1.5rem;}
+.quick-right{padding: 2rem 0 0;}
+.address-box01 p:last-child{margin-bottom: 2rem;}
+.service-box{flex-direction: row; justify-content: space-evenly;}
+.positon-sbox::after{width: 200px;left: 134px; transform: rotate(-128deg); }
+.service-box p{position: relative; z-index: 999; color: #fff;}
+.positon-sbox::before{width: 200px;top: -20px; left: 260px;  transform: rotate(127deg);}
+.serroslobo-box::after{width: 55%;top: 45%; left: 135px; transform: rotate(90deg); z-index: 1;}
+.positon-sbox02::before{top: 166px; right: 287px; transform: rotate(-57deg);}
+.positon-sbox02::after{bottom: 42px;  right: 160px; transform: rotate(-126deg);}
+.serroslobo-box img{position: relative; z-index: 9;}
+.serroslobo-box{flex-direction: row;  justify-content: center;}
+.serroslobo-box .roslogo-gif{width: 12%; left: -9%; top: 18%;}
+.roslogo01 {margin-top: 2rem;  margin-left: 7rem;  }
+.relateditem-box{height: 275px;}
+.urjalogo { margin-top: 1rem;}
+.row-vr01 { margin-top: 2rem;  }
+.new-vehicle-cont{margin-top: 2rem;}
+.new-vehicle-cont .vehicletext-box p{margin-bottom: 0; width: 100%;}
+.new-vehicle-cont .vehicletext-box p br{display: none;}
+.state-cont03{padding-right: 0;}
+.state-cont03 .statetext, .state-cont03 .statetext h3, .state-cont03 .statetext p{text-align: left;}
+.state-cont03 .statetext h3::after{left: 0;}
+.state-cont03 h2{margin-top: 2rem;}
+.atros-text { margin-top: 0;  }
+.vehicle-right { padding-top: 0;  }
+.ourservice01 { padding: 0 0 3rem; }
+.ourservice01 h4{font-size: 1.8rem; line-height: 2.8rem;}
+.networkpre-box{padding: 0;}
+.networkpre-box::after{background: none;}
+.networmrow { padding-top: 3rem; }
+.networkpre-left{justify-content: inherit;}
+.totalactiveimg img { margin-top: 0; }
+.myraasta-left { margin-right: 0; border-right: 0;  margin-bottom: 1.5rem; }
+.myraasta-right { padding-left: 0;  }
+.uniquetext{margin: 1rem 0 4rem;}
+.vehicletext-box h4{margin-bottom: 1rem;}
+.state-cont04 .statetext{padding-left: 0; margin-top: 2rem;}
+.state-cont04 .statetext h4{margin-bottom: 1rem;}
+.new-vehicle-right{align-items: flex-start;}
+.state-cont04{justify-content: flex-start;}
+.myraasta-btn{margin-top: 0;}
+.annual-ul li a img { padding-right: 1rem;  }
+.investor-ul li{width: 100%; margin-bottom: 2rem;}
+.termsul li ul {padding-left: 1rem;}
+}/*650*/
+@media (max-width: 550px) {
+.vision-right h4 { top: 46%;  }
+.bthegroup-box{text-align: center;}
+.opportunitycenter-cont{flex-wrap: wrap; box-shadow: none;}
+.opportcenter-box {width: 100%; background: none; box-shadow: 0 4px 8px 0 rgba(223, 223, 223, 0.2), 0 6px 20px 0 rgba(162, 162, 162, 0.19);  margin-bottom: 2rem;}
+.opportcenter-box p{padding-bottom: 0;}
+.enhancing-box p {  margin-bottom: 1rem; }
+.enhancing-box h5{line-height: 3rem; margin-bottom: 0;}
+.enhancing-sec { padding: 0 0 6rem;  }
+.enhancing-box {  margin-top: 6rem;  }
+.state-presece-left h3{margin: 0 0 2rem 0;}
+.vehicleown-left h5 { margin: 1rem 0 1rem; font-size: 2rem; line-height: 3rem;   }
+.mm2-box {  padding: 1rem 0;  }
+.mm2-cont{flex-wrap: wrap;}
+.mm2-box01, .mm2-box02{ width: 100%;  }
+.mm2-box02{margin: 2.5rem 0 0;}
+.m2m-col h3{font-size: 2.4rem; line-height: 3.4rem;}
+.customer-box p {  width: 100%;  }
+.powering-text p, .powering-text h6{margin-bottom: 1rem;}
+.strong-box03{text-align: left;}
+.compreh-box {  padding: 0rem 0 2rem;}
+.positon-sbox::before{top: -20px;  left: 101px;  transform: rotate(56deg);}
+.positon-sbox::after{left: 215px; transform: rotate(-61deg);}
+.serroslobo-box::after{left: 76px; width: 69%;}
+.positon-sbox02::before{right: 228px;}
+.positon-sbox02::after{right: 121px;}
+.serroslobo-box .roslogo-gif{left: -10%;  top: 15%;}
+.spares-cate{padding: 8rem 0 5rem;}
+.totalactive-box .tan-center {  margin: 3rem 0;}
+.fwlogo-box .autologo-box {  max-width: 50%;  }
+.contact-left{height: auto; margin-bottom: 2rem;}
+.contactleft-cont img {  margin-right: 1rem; max-width: 26px;  }
+.ct-modal-body-cont { padding: 0 2rem 4rem;  flex-wrap: wrap; }
+.ctimg01, .cttext02 { width: 100%;  }
+.cttext02 h3 { margin-top: 2rem;  }
+.cttext02 h4{margin-bottom: 1rem;}
+}/*550*/
+@media (max-width: 480px) {
+.abouttext p{margin-bottom: 2rem;}
+.about-cont{flex-wrap: wrap;}
+.about-box img{margin-bottom: 1rem;}
+.about-cont .about-box:nth-child(3){margin-top: 1.5rem;}
+.safebox p{width: 100%;}
+.perfortext{padding-left: 1.5rem;}
+.homeslider .slider__item{border-right: 0;}
+.footer-bottom{flex-direction: column;justify-content: center; align-items: center; padding: 1rem 0;}
+.investor-right { padding-left: 0;  }
+.missiontext{width: 120px;}
+.vision-right h4{left: -12%;}
+.value-box {max-width: 50%;}
+.enhancing-box{padding: 4rem 2rem;}
+.techno-enable-cont { padding: 4rem 2rem;  }
+.techno-enable-box2 {  margin-left: 2rem;  }
+.techno-enable-box2 p{margin-bottom: 0;}
+.service-box{padding: 0;}
+.positon-sbox::before{left: 67px;}
+.positon-sbox::after{left: 180px;}
+.serroslobo-box::after { left: 57px;width: 73%;  }
+.positon-sbox02::before { right: 194px;  }
+.positon-sbox02::after {right: 83px;  }
+.serroslobo-box .roslogo-gif {  left: -12%;  top: 12%; }
+}/*480*/
+@media (max-width: 450px) {
+.positon-sbox::after { left: 153px; }
+.serroslobo-box::after { left: 51px;  width: 73%;  }
+.positon-sbox02::after { right: 67px; }
+.annual-ul .first-bg{padding: 1.5rem 2rem;}
+}/*450*/
+@media (max-width: 420px) {
+.about-cont .about-box{margin-top: 1.5rem;}
+.key-cont{margin-top: 2rem;}
+.perforimg{width: 100px;}
+.perforimg img{width: 60px;}
+.investorright-cont p {margin-left: 1rem;}
+.value-box { max-width: 100%; text-align: center; margin-top: 1rem; }
+.inner-safebox { padding: 5rem 3rem;}
+.safeleft { top: -29%;}
+.atrosmeta-text p{font-size: 1.6rem; line-height: 2.6rem;}
+.brandsul{flex-wrap: wrap; padding: 3rem 2rem 3px;}
+.brandsul li{width: 50%; margin-bottom: 2rem; }
+.brandsul li:nth-child(2){border-right: 0;}
+.quote-inner p {font-size: 1.6rem; line-height: 3rem; margin: 2rem 0;}
+.quote-inner h4 {font-size: 2rem;  line-height: 3.5rem;}
+.quote-inner h5{font-size: 1.8rem; line-height: 3rem; margin-bottom: 7rem;}
+.customer-heading .color-blue { margin-bottom: 3rem; }
+.m2m-col h3 { font-size: 2rem;  line-height: 3rem; }
+.customer-col{width: 50%;}
+.positon-sbox::before { left: 56px;  }
+.positon-sbox::after {  left: 134px;  }
+.positon-sbox02::before { right: 153px; transform: rotate(-66deg);  }
+.positon-sbox02::after {right: 53px;transform: rotate(-119deg); }
+.serroslobo-box .roslogo-gif { left: -14%;  top: 10%;  }
+.serroslobo-box::after {  left: 14px;   width: 91%;  }
+.roslogo01{margin-left: 5rem;}
+.relatedtext{padding: 3rem 2rem 3rem 3rem;}
+.annual-ul li a{padding: 1.5rem 2rem;}
+.investor-ul li a{padding: 2rem 2rem;}
+.fwlogo-box .autologo-box { max-width: 100%;  text-align: center;  }
+}/*420*/
+@media (max-width: 414px) {
+.serroslobo-box::after { left: 20px; width: 88%; }
+}/*414*/
+@media (max-width: 380px) {
+.investorleft-text{padding: 1.5rem 2rem;}
+.vision-right h4 { left: -17%; }
+.deb-cont{flex-direction: column-reverse;}
+.deb-cont p {margin-left: 0;}
+.techno-enable-cont{flex-wrap: wrap;}
+.techno-enable-box1 img { max-width: 80px;  margin-bottom: 1rem;  }
+.techno-enable-box2 {  margin-left: 0;  }
+.positon-sbox::before { left: 36px; }
+.positon-sbox::after { left: 111px; }
+.serroslobo-box::after { left: 17px;  width: 88%;  }
+.positon-sbox02::before{right: 130px;}
+.positon-sbox02::after { right: 41px;  transform: rotate(-116deg);  }
+.serroslobo-box .roslogo-gif{left: -15%;width: 14%;}
+.annual-ul .first-bg{font-size: 1.9rem;  line-height: 2.9rem;}
+}/*380*/
+@media (max-width: 360px) {
+.safebox img{width: 170px;} 
+.keybox {  width: 100%;  }
+.thegroup-box img{max-width: 230px;}
+.heading h3{font-size: 2.4rem; line-height: 3.4rem;}
+.cont-form .btn {  width: 105px;  margin: 3rem 1rem 0 0;  }
+.positon-sbox02::after { right: 29px;}
+.serroslobo-box::after {left: -4px;  width: 100%; }
+.relatedtext h3{font-size: 1.8rem; line-height: 2.8rem;}
+.relatedtext{padding: 2rem 1.6rem;}
+.fwlogo-box{padding: 5rem 1rem;}
+}/*360*/
+@media (max-width: 320px) {
+.vision-right h4 { left: -20%;}
+.positon-sbox::before { left: 18px;}
+.positon-sbox::after {left: 74px;}
+.serroslobo-box::after { left: -5px;  width: 100%; }
+.positon-sbox02::before { right: 90px; }
+.positon-sbox02::after { right: 20px; }
+.serroslobo-box .roslogo-gif {  left: -19%;   width: 15%; top: 7%;  }
+
+}/*320*/

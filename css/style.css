@@ -2446,6 +2446,10 @@ footer {
     width: 33.3%;
 }
 
+.rdsca-col img{
+    width: 120px; 
+}
+
 .rdsca-col:last-child {
     border-right: 0;
 }
@@ -2622,6 +2626,10 @@ footer {
     border-radius: 6px;
     position: relative;
     margin-bottom: 9rem;
+}
+
+.techno-enable-cont img{
+    width: 177px;
 }
 
 .techno-enable-box1 {
@@ -3292,6 +3300,10 @@ footer {
     background: #dfb100;
     display: block;
     margin: .5rem auto 0;
+}
+
+.sparescate-box img{
+    width: 120px;
 }
 
 .sparescate-box h6 {

@@ -140,7 +140,9 @@ a {
     font-weight: 400;
     color: #323232;
     display: inline-block;
-    padding: 1rem 1rem;
+    padding: 0 1rem;
+    padding-left: 0px !important;
+    text-align: center;
 }
 
 .desktop-menu ul li a:hover {
@@ -154,6 +156,8 @@ a {
     padding: .4rem 1.5rem;
     color: #fff;
     margin: 4px 0 0 10px;
+    width: max-content;
+    padding-left: 1rem !important;
 }
 
 .desktop-menu .lastcont:hover {

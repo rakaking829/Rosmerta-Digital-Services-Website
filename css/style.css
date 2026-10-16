@@ -3286,6 +3286,7 @@ footer {
     height: 100%;
     padding: 4rem 1rem 0;
     text-align: center;
+    border: 5px solid #dfb100;
 }
 
 .sparescate-box h5 {
@@ -4092,6 +4093,15 @@ footer {
     background-position: center;
 }
 
+.spares-bottom{
+    background: url(../images/spare-parts/spare-bg.webp) no-repeat;
+    background-size: cover;
+    padding: 30rem 0;
+    margin-top: -340px;
+    background-size: cover;
+    background-position: center;
+}
+
 .platform-row{
     margin-top: 5rem;
 }
@@ -4131,6 +4141,228 @@ footer {
     width: 60px;
 }
 
+ .heading.white{
+        margin-bottom: 50px;
+    }
+
+.heading.white h3{
+    color: #ffffff;
+}
+
+.presence-section{
+    padding-top: 9em;
+}
+
+.presence-row{
+    margin-top: 50px;
+}
+
+.presence-row .image{
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(215, 215, 215, 0.2), 0 6px 20px 0 rgba(145, 145, 145, 0.19);
+    border-radius: 45px;
+}
+
+/* Tabs */
+.tabs {
+    display: flex;
+    gap: 12px;
+    overflow-x: auto;
+    padding: 8px 4px 20px;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    justify-content: center;
+}
+.tabs::-webkit-scrollbar {
+    display: none;
+}
+.tab {
+    flex: 0 0 auto;
+    scroll-snap-align: center;
+    width: 80px;
+    height: 80px;
+    min-height: 80px;
+    border: 0;
+    border-radius: 14px;
+    background: #dfb100;
+    color: var(--tab-text);
+    box-shadow: 0 4px 14px rgba(36, 63, 143, 0.08);
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 14px 10px;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 1.3;
+    transition: 0.25s;
+    position: relative;
+}
+
+.tab img{
+    width: 50px;
+}
+.tab svg {
+    width: 48px;
+    height: 48px;
+    stroke: var(--primary2);
+    fill: none;
+    stroke-width: 1.6;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    transition: 0.25s;
+}
+.tab small {
+    font-weight: 500;
+    font-size: 11px;
+    opacity: 0.7;
+}
+.tab:hover {
+    transform: translateY(-3px);
+}
+.tab:focus-visible {
+    outline: 3px solid var(--gold);
+    outline-offset: 2px;
+}
+.tab[aria-selected="true"] {
+    background: #244191;
+    color: #fff;
+    box-shadow: 0 12px 26px rgba(36, 63, 143, 0.35);
+    transform: translateY(-3px);
+}
+.tab[aria-selected="true"] svg {
+    stroke: #fff;
+}
+.tab[aria-selected="true"]::after {
+    content: "";
+    position: absolute;
+    bottom: -8px;
+    width: 16px;
+    height: 16px;
+    background: #244191;
+    transform: rotate(45deg);
+    border-radius: 3px;
+    z-index: 0;
+}
+          
+.brand-section .tabs .title{
+  font-size: 18px;
+    color: #ffffff;
+}
+          
+.brand-section .tabs .title small{
+  font-size: 14px;
+}
+
+/* Blue band + card */
+.band {
+    background: url(../images/hsrplayout-bg.webp);
+    padding: 35px 0 35px;
+    margin-top: -4px;
+}
+.band h2 {
+    margin: 0;
+    text-align: center;
+    color: #fff;
+    font-size: clamp(20px, 3.5vw, 28px);
+}
+.band h2::after {
+    content: "";
+    display: block;
+    width: 56px;
+    height: 3px;
+    background: var(--gold);
+    border-radius: 3px;
+    margin: 10px auto 28px;
+}
+.panel {
+    background: #f5f5f5;
+    border-radius: 18px;
+    padding: 22px;
+    animation: fadeUp 0.4s ease;
+}
+.panel[hidden] {
+    display: none;
+}
+@keyframes fadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(12px);
+    }
+    to {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+/* Brand tiles */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 14px;
+}
+
+.brand-logo{
+    background: #ffffff;
+    border-radius: 14px;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.brand-logo .logo-icon{
+    height: 34px;
+    margin-bottom: 10px;
+}
+
+.brand-logo .logo-icon img{
+    width: 50px;
+    height: 100%;
+    object-fit: contain;
+}
+
+.brand-logo .logo-name{
+    font-size: 13px;margin-top: 10px;
+}
+
+
+/* Mobile */
+@media (max-width: 700px) {
+    .tabs {
+        justify-content: flex-start;
+        margin: 0 -16px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    .tab {
+        width: 132px;
+        min-height: 112px;
+        font-size: 12px;
+    }
+    .tab svg {
+        width: 38px;
+        height: 38px;
+    }
+    .grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+    .panel {
+        padding: 14px;
+    }
+    .band {
+        padding: 44px 0 32px;
+    }
+}
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation: none !important;
+        transition: none !important;
+    }
+}
+
 @media (max-width: 650px){
     .citizen-compliance-bg{
          background: url(../images/e-challan/e-challan-mobile.jpg);
@@ -4161,3 +4393,4 @@ footer {
         font-size: 2.5rem;
     }
 }
+
